@@ -1,0 +1,7 @@
+/* index.css or App.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #F5F7FA; /* Optional: match your Dashboard bg */
+}
